@@ -1,7 +1,4 @@
-/*Creare le classi principali
-Le classi principali del sistema bancario sono la classe Banca, la classe Cliente e la classe Conto.
-La classe Banca rappresenta la banca stessa, mentre la classe Cliente rappresenta un cliente della banca e
-la classe Conto rappresenta il conto bancario del cliente.*/
+
 #include <iostream>
 #include <string>
 
